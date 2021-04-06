@@ -1,5 +1,8 @@
 _repo: Hannele-2-naytoksinen-unirunoelma_64995
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Hauptmann, Gerhart
@@ -12,6 +15,8 @@ creator:
     - https://de.wikipedia.org/wiki/Gerhart_Hauptmann
     - https://en.wikipedia.org/wiki/Gerhart_Hauptmann
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64995#Hannele-2-naytoksinen-unirunoelma
 gutenberg_issued: '2021-04-05'
 gutenberg_type: Text
 identifiers:
